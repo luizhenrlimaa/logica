@@ -1,0 +1,19 @@
+// Problema 03 - Pseudocodigo
+
+// receber o primeiro numero
+
+input  n1
+
+// receber o segundo numero
+
+input n2
+
+// Exibir o maior numero
+
+if condicional n1 < n2
+
+    print "O maior valor é, " + n2
+
+else 
+
+    print "O maior valor é, " + n1

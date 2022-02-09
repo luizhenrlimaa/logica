@@ -1,0 +1,7 @@
+// Problema 02 - Pseudocodigo
+
+// receber nome do usuario
+input nome_usuario
+
+// informando o nome do usuario e a mensagem de seja bem vindo
+print nome + ", seja bem vindo!"

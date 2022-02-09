@@ -1,0 +1,16 @@
+// Problema 01 - Pseudocodigo
+
+// receber salario mensal
+input salario_mensal
+
+// receber horas trabalhadas por mes
+input horas_trabalhadas_mes
+
+// calcular o valor da hora
+valor_hora = salario_mensal/horas_trabalhadas_mes
+
+// informar valor hora
+print valor_hora
+
+
+

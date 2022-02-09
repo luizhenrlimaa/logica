@@ -1,0 +1,16 @@
+// Problema 05 - Pseudocodigo
+
+// declarando os valores da lista
+idades  = [15,46,75,34,23]
+
+
+// inicializando a variavel total
+total = 0
+
+// executando a repeticao
+loop idade em idades
+  total = total + idade
+
+// exibindo o valor total dos itens da lista
+
+print total

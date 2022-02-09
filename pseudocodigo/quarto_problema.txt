@@ -1,0 +1,22 @@
+// Problema 04 - Pseudocodigo
+
+
+// receber o primeiro numero
+
+input  numero
+
+// verificando se o numero é positivo
+
+if numero < 0
+    print "Informe um número positivo"
+
+// criando a variavel fatorial 
+fatorial = 1
+
+// calculando fatorial
+loop de 1 a numero  
+    fatorial = fatorial * numero
+
+// exibindo o fatorial do numero informado 
+print resultado
+

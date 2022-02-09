@@ -1,0 +1,21 @@
+// Problema 06 - Pseudocodigo
+
+// pegando um valor aleatorio
+input valor_aleatorio entre 1 a 10
+
+// definindo um loop
+acertou = falso
+while acertou = falso
+    
+    // informando o valor do chute
+    input chute 
+    // comparando o valor do chute e exibindo o resultado
+    if chute > valor_aleatorio 
+        print "Chute é maior que valor gerado"
+    if chute < valor_aleatorio  
+        print "Chute é menor que valor gerado"
+    if chute = valor_aleatorio  
+        print "Acertou o chute!"
+        acertou = verdadeiro
+    else
+        print "Você chutou um valor inválido!"
